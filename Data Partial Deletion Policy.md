@@ -1,67 +1,77 @@
 DATA PARTIAL DELETION POLICY
 
-1. PURPOSE
-This Data Partial Deletion Policy sets forth how HabitPulse (“we/our/us”) processes requests for selective deletion of user data, while keeping user accounts active. It complements our full Data Deletion Policy.
+1. PURPOSE  
+This policy outlines how HabitPulse handles user requests to delete specific categories of personal data while maintaining an active account. It complements our full Data Deletion Policy, which covers complete account removal.
 
-2. SCOPE
-Applies to user-initiated deletion of specific data types within an active account. It outlines eligible/ineligible data, request channels, processing timeline, retention limits, and impacts.
+2. SCOPE  
+Applies to data categories that can be selectively deleted without affecting the core functionality of the account or violating legal requirements.
 
-3. PRINCIPLES & LEGAL COMPLIANCE
-We use transparent procedures to comply with regulations (e.g. GDPR, CCPA) while following data minimization and purpose limitation principles. Secure deletion methods are applied to ensure irrecoverability :contentReference[oaicite:1]{index=1}.
+3. ELIGIBLE DATA CATEGORIES  
+The following types of data can be partially deleted upon user request:
 
-4. ELIGIBLE DATA CATEGORIES
-Users may request deletion of:
-• Activity Data: step counts, exercise logs, timestamps, health metrics  
-• Habit Tracking Data: historical completion, streaks, custom habits, progress indicators  
-• Profile Data: profile image, username, bio/about, personal goals  
-• Device Info: associated device records, login history, location access logs
+- Activity Data: step counts, exercise logs, timestamps, health metrics  
+- Habit Records: completion history, habit streaks, custom habit names, progress data  
+- Profile Information: profile picture, display name, bio, personal goals  
+- Device Information: associated devices, login history, location access logs  
 
-5. INELIGIBLE DATA CATEGORIES
-The following are not eligible for partial deletion while maintaining an account:
-• Core Account Data: account email, account creation date, identity verification
-• Billing Data: subscription status, payment/transaction records (regulatory requirement)
-• System & Security Data: security logs, crash reports, fraud detection records
+4. INELIGIBLE DATA  
+The following data cannot be deleted unless the account is permanently closed:
 
-6. HOW TO REQUEST PARTIAL DELETION
-Option A – In-App:
-• Go to Settings → Privacy → Manage My Data  
-• Select categories to delete and confirm  
-• Data removal initiated within 7 calendar days
+- Account Email  
+- Account Creation Date  
+- Subscription and Payment Information  
+- Identity Verification Data  
+- Security and Crash Logs  
+- Anti-Fraud System Data  
 
-Option B – Email:
-• Email habitpulseapp@gmail.com with subject “Partial Data Deletion Request”  
-• Clearly specify data categories and include account email for verification  
-• We respond within 5 business days; after verification, deletion occurs within 14 days
+5. HOW TO REQUEST PARTIAL DELETION  
 
-7. DELETION PROCESS & TIMELINE
-• Identity verification conducted upon submission  
-• Selected data removed from active systems within 14 days  
-• Backups purged within standard cycle (maximum retention: 60 days)  
-• Confirmation sent to user upon completion
+Option A: In-App  
+- Go to Settings > Privacy > Manage My Data  
+- Select data categories to delete  
+- Confirm your selection  
+- Deletion will be processed within 7 days  
 
-8. EFFECTS & LIMITATIONS
-• Deleted data cannot be recovered—export before deletion if needed  
-• Feature limitations may occur (e.g. loss of streaks, progress tracking)  
-• New data generated post-deletion may require future removal requests  
-• Deletion may not automatically propagate to third-party integrations (e.g. Google Fit); separate actions may be needed
+Option B: Email  
+- Send an email to habitpulseapp@gmail.com with the subject “Partial Data Deletion Request”  
+- List the specific data categories you wish to delete  
+- Include your account email for verification  
+- We will respond within 5 business days and delete data within 14 days after verification  
 
-9. AUTOMATED CONTROLS & DATA MINIMIZATION
-• Time-based auto-deletion: users can configure auto-deletion periods (30 days, 90 days, 6 months, 1 year)  
-• Data minimization options: anonymization, reduced metric precision, restricted collection for specific use cases
+6. DELETION PROCESS  
+- Your identity will be verified  
+- Selected data will be removed from active systems within 14 days  
+- Deleted data may remain in backups for up to 60 days before permanent removal  
+- You will receive confirmation once deletion is complete  
 
-10. EXCEPTIONS & LEGAL RETENTION
-Certain data may be exempt from deletion due to:
-• Compliance with legal/regulatory obligations (e.g. tax, audit, fraud prevention)  
-• Technical limitations separating interdependent or system-critical data  
-• Active enforcement or ongoing investigations
+7. LIMITATIONS  
+- Deleted data cannot be recovered  
+- Some features may be affected (e.g., statistics, streaks)  
+- New data will continue to be collected unless disabled or deleted again later  
+- Data shared with third-party services (e.g., Google Fit) must be deleted separately  
 
-11. POLICY REVIEW, AUDIT & GOVERNANCE
-• Policy reviewed and updated regularly in accordance with evolving regulations and best practices :contentReference[oaicite:2]{index=2}  
-• Roles and responsibilities defined across legal, IT, compliance and operations teams :contentReference[oaicite:3]{index=3}  
+8. AUTOMATED DELETION OPTIONS  
+Users can enable time-based data auto-deletion in Settings > Privacy > Data Retention:
 
-12. CONTACT & SUPPORT
-For questions or to request assistance:
+- Available options: 30 days, 90 days, 6 months, 1 year  
+- Users can also anonymize or reduce the precision of sensitive data  
+
+9. DATA RETENTION AFTER DELETION  
+We will retain only the minimum necessary data to maintain your account, fulfill legal obligations, and ensure service integrity. Anonymized or aggregated data may be retained for analytical purposes.
+
+10. EXCEPTIONS  
+Partial deletion requests may not apply to:
+
+- Data required by law or financial regulations  
+- Data involved in legal disputes or abuse investigations  
+- Data technically inseparable from critical system components  
+
+11. POLICY UPDATES  
+This policy may be updated periodically. Material changes will be communicated via email or in-app notifications.
+
+12. CONTACT  
+For questions or support:  
 Email: habitpulseapp@gmail.com  
-Subject: “Data Management Question”
+Subject: “Data Management Question”  
 
-Last Updated: May 14, 2025
+Last Updated: May 14, 2025
