@@ -84,7 +84,7 @@ Request the deletion of your data.
 
 Opt-out of data collection for analytics and ads.
 
-For any of these requests, contact us at [your-email@example.com].
+For any of these requests, contact us at habitpulseapp@gmail.com
 
 Changes to This Privacy Policy
 
@@ -94,7 +94,7 @@ Contact Us
 
 If you have any questions or concerns about this Privacy Policy, feel free to contact us:
 
-Email: [your-email@example.com]
+Email: habitpulseapp@gmail.com
 
 Thank you for trusting HabitPulse with your personal information. We are committed to keeping it secure and transparent.
 
