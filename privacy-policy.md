@@ -1,100 +1,63 @@
+
 Privacy Policy
 
 Last Updated: May 7, 2025
 
 Introduction
+Welcome to HabitPulse. We take your privacy seriously and are committed to protecting your personal data. This Privacy Policy explains what information we collect, how we use it, who we may share it with, and your rights regarding your personal data.
 
-Welcome to HabitPulse. We are committed to protecting your privacy and ensuring a safe experience while using our application. This Privacy Policy explains what information we collect, how we use it, and your rights regarding your personal data.
+1. Information We Collect
+We may collect and process the following categories of data:
 
-Information We Collect
+- Personal Information: Name, email address, username, profile image, biography, habit details and reminders.
+- Device & Technical Data: Device model, operating system version, unique device identifiers, crash logs.
+- Usage Data: App usage behavior, session times, feature interactions.
+- Location Data: Collected only if you enable location-based reminders.
+- Advertising & Analytics Data: Collected by third-party tools such as Firebase Analytics and Google AdMob.
 
-We collect the following types of information:
-
-Personal Information
-
-Name, email address, or other identifiers when you create an account.
-
-Information you enter in the application, such as habit details and reminders.
-
-Device Information
-
-Device model, operating system version, and unique device identifiers.
-
-Usage Data
-
-Information on how you interact with the app, including features used and session durations.
-
-Location Data (if enabled)
-
-Only collected if you enable location-based reminders.
-
-Ad and Analytics Data
-
-Information gathered for advertising and analytics purposes, such as Google AdMob and Firebase Analytics.
-
-How We Use Your Information
-
+2. How We Use Your Information
 We use the information collected for the following purposes:
 
-To personalize your experience and track habit progress.
+- To personalize your experience and track habit progress.
+- To send reminders, notifications, and habit-related updates.
+- To maintain and improve app performance and fix issues.
+- To provide relevant advertisements via AdMob.
+- To analyze usage patterns and enhance functionality.
 
-To send reminders and notifications based on your settings.
+3. Information Sharing
+Your personal information is not sold. We may share data in the following cases:
 
-To improve app functionality and fix bugs.
+- With Google AdMob for targeted advertising.
+- With Firebase Analytics for app performance analysis.
+- With Google Play Services for subscription and payment processing.
 
-To display relevant advertisements through Google AdMob.
+All third parties we work with comply with applicable privacy regulations and standards.
 
-To analyze app usage and improve performance.
+4. Data Security
+We protect your data using the following measures:
 
-Sharing of Information
+- End‑to‑end encryption during transit.
+- Secure storage on trusted cloud infrastructure (e.g. Google Cloud).
+- Regular security audits and vulnerability assessments.
 
-We do not sell your personal information to third parties. We may share information with the following parties:
+5. Children's Privacy
+HabitPulse is not designed for children under 13. We do not knowingly collect data from children. If we become aware of data collected from a child under 13, we will delete it promptly to comply with applicable laws such as COPPA.
 
-Google AdMob for targeted advertisements.
+6. Your Privacy Rights
+You have the following rights regarding your personal data:
 
-Firebase Analytics for app performance and usage analysis.
+- Right to access the data we hold on you.
+- Right to correction of inaccurate information.
+- Right to deletion of your personal data.
+- Right to opt‑out of analytics tracking or targeted advertising.
 
-Google Play Services for subscription and payment processing.
+To exercise any of these rights, you can contact us at habitpulseapp@gmail.com, and we will respond promptly.
 
-All third-party partners comply with applicable privacy regulations.
+7. Changes to This Policy
+We may update this policy from time to time to reflect legal requirements or improvements in our practices. We will update the "Last Updated" date at the top and inform you via in-app notice or email if the changes are significant.
 
-Data Security
-
-We implement the following measures to ensure your data is secure:
-
-Data encryption during transmission.
-
-Secure storage on Google Cloud services.
-
-Regular security updates and vulnerability assessments.
-
-Children's Privacy
-
-HabitPulse is not intended for children under 13. We do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete it promptly.
-
-Your Rights
-
-You have the right to:
-
-Access the personal data we hold about you.
-
-Request corrections to any inaccurate information.
-
-Request the deletion of your data.
-
-Opt-out of data collection for analytics and ads.
-
-For any of these requests, contact us at habitpulseapp@gmail.com
-
-Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Any changes will be posted on this page, and if significant, we will notify you within the app.
-
-Contact Us
-
-If you have any questions or concerns about this Privacy Policy, feel free to contact us:
+8. Contact Information
+If you have any questions or concerns about this policy or your data, please contact us:
 
 Email: habitpulseapp@gmail.com
-
-Thank you for trusting HabitPulse with your personal information. We are committed to keeping it secure and transparent.
-
+Subject line: “Privacy Question” for faster assistance.
